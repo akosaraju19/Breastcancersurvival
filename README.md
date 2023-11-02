@@ -58,4 +58,4 @@ This model aims to predict the survival of breast cancer patients based on vario
   Make sure the dataset file 'BRCA.csv' is located in the same directory as the notebook.
 
   #### License
-  This project is licensed under the MIT License - see the [LICENSE]() file for details.
+  This project is licensed under the MIT License - see the [LICENSE](https://github.com/akosaraju19/Breastcancersurvival/blob/main/LICENSE) file for details.
